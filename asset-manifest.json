@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cineman/static/css/main.e18cd606.css",
+    "main.js": "/cineman/static/js/main.8bfb2727.js",
+    "index.html": "/cineman/index.html",
+    "main.e18cd606.css.map": "/cineman/static/css/main.e18cd606.css.map",
+    "main.8bfb2727.js.map": "/cineman/static/js/main.8bfb2727.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e18cd606.css",
+    "static/js/main.8bfb2727.js"
+  ]
+}
