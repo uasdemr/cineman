@@ -14,7 +14,7 @@ function UserProfile({ user }: UserProfileType) {
 
   const onLogOutClickHandler = (evt: SyntheticEvent) => {
     store.dispatch(logoutUserAction())
-    navigate('/films')
+    navigate('/')
   }
   return (
     <section className="profile__user-wrapper">
